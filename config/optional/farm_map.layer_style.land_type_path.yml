@@ -4,10 +4,11 @@ dependencies:
   enforced:
     module:
       - farm_land_types
-id: land_type_road
-color: orange
+      - farm_land_asset_extended
+id: land_type_path
+color: blue
 conditions:
   asset_type:
     - land
   land_type:
-    - road
+    - path

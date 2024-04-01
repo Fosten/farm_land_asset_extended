@@ -4,5 +4,6 @@ dependencies:
   enforced:
     module:
       - farm_land_types
+      - farm_land_asset_extended
 id: path
 label: Path
