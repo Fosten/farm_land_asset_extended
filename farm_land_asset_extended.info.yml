@@ -1,0 +1,7 @@
+name: Land Asset Extended
+description: An extended farmOS land asset
+type: module
+package: farmOS Contrib
+core_version_requirement: ^10
+dependencies:
+  - farm:farm_land
