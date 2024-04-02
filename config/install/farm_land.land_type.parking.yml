@@ -1,0 +1,9 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_land_types
+      - farm_land_asset_extended
+id: parking
+label: Parking

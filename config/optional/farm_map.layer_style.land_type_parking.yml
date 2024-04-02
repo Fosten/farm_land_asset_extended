@@ -1,0 +1,14 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_land_types
+      - farm_land_asset_extended
+id: land_type_parking
+color: yellow
+conditions:
+  asset_type:
+    - land
+  land_type:
+    - parking
